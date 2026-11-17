@@ -1,0 +1,36 @@
+{
+  "name": "fullstack-fastapi-vue",
+  "version": "1.0.0",
+  "description": "A full-stack application using FastAPI and Vue.js",
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@univerjs/core": "^0.10.13",
+    "@univerjs/design": "^0.10.13",
+    "@univerjs/docs": "^0.10.13",
+    "@univerjs/docs-ui": "^0.10.13",
+    "@univerjs/engine-formula": "^0.10.13",
+    "@univerjs/engine-render": "^0.10.13",
+    "@univerjs/find-replace": "^0.10.13",
+    "@univerjs/sheets": "^0.10.13",
+    "@univerjs/sheets-formula": "^0.10.13",
+    "@univerjs/sheets-ui": "^0.10.13",
+    "@univerjs/ui": "^0.10.13",
+    "axios": "^1.13.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "rxjs": "^7.8.2",
+    "vue": "^3.2.0",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.0.0",
+    "typescript": "^4.0.0",
+    "vite": "^7.1.12"
+  },
+  "license": "MIT"
+}
